@@ -82,6 +82,6 @@ public class hw1 {
         } else {
             result = initValue - delta;
         }
-        System.out.println("Результат: " + result);
+        System.out.println("Результат " + result);
     }
 }
